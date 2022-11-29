@@ -1,7 +1,5 @@
 <div>
-    <h2>Name: Sagar Mandal</h2>
-    <h2>Roll no.: 60 (A4)</h2>
-    <h2>Teacher Assessment</h2>
+    <h1>Design and Analysis of Algorithm</h1>
 </div>
 <hr>
 <div>
